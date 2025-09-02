@@ -293,3 +293,4 @@ Para suporte, envie um email para flpvoigt@gmail.com ou abra uma issue no GitHub
 ---
 
 ⭐ Se este projeto te ajudou, considere dar uma estrela!
+# voigt
